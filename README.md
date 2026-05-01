@@ -6,8 +6,6 @@ Personal portfolio built with Next.js, TypeScript, and Tailwind CSS. It highligh
 
 ![Portfolio hero](public/screenshots/home.png)
 
-![Portfolio full page](public/screenshots/full-page.png)
-
 ## Tech Stack
 
 - Next.js 14
